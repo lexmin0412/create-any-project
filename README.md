@@ -1,23 +1,22 @@
-# TPC
+# Create Any Project
 
-![version](https://img.shields.io/npm/v/@lexmin0412/tpc) 
-![downloads-month](https://img.shields.io/npm/dm/@lexmin0412/tpc)
+![version](https://img.shields.io/npm/v/create-any-project) 
+![downloads-month](https://img.shields.io/npm/dm/create-any-project)
 
 English | [中文](./README.zh-CN.md)
 
-TypeScript Project Creator, like `npm init`, but for TS.
+Create any project as you want.
 
-Install tpc globally:
+Install create-any-project globally:
 
-```sh
-npm i -g @lexmin0412/tpc
+```bash
+npm install create-any-project --global
 ```
 
-From now, whenever you want to create a new TypeScript project, just run:
+From now, whenever you want to create a new project, just run:
 
 ```sh
-npm init -y
-tpc init
+create-any-project
 ```
 
 **What does it actually do?** Well, not a lot! It will:

@@ -1,7 +1,7 @@
 {
-  "name": "@lexmin0412/tpc",
+  "name": "create-any-project",
   "version": "2.4.0",
-  "description": "a typescript project creator",
+  "description": "a project creator, support typescript, vue, react, etc.",
   "main": "./lib/index.js",
   "files": [
     "es",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lexmin0412/typescript-project-creator.git"
+    "url": "git+https://github.com/lexmin0412/create-any-project.git"
   },
   "keywords": [
     "typescript",
