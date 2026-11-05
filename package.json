@@ -54,7 +54,7 @@
   "devDependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^18.0.4",
-    "eslint": "^4.19.1",
+    "eslint": "^10.14.0",
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "pkg-types": "^1.1.0",
